@@ -129,17 +129,18 @@ img{
     gap: 40px;
     padding: 15px;
     border-radius: 10px;
-    background-color: #F8F9FC;
     width:75%;
     
     
 }
 .second-page-containor-items{
+    background-color:#FFFFFF;
     border-radius: 10px;
-    border:2px solid rgba(14, 14, 14, 0.15);
+    
     padding: 16px;
     width: 202px;
     height: 163px;
+    gap: 20px;
 }
 /* third page */
 .third-page-titel
@@ -178,7 +179,7 @@ img{
     font-weight:700px;
     border-radius: 5px;
     border: none;
-    color: #FFFFFF;
+    color: c;
       
 }
 .color-1
@@ -192,6 +193,25 @@ img{
 .color-3
 {
     background-color: #FFC239;
+}
+.color-background1
+{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 15px;
+    border-radius: 10px;
+}
+.color-background2
+{
+    background-color: rgba(9, 161, 92, 1);
+    padding: 15px;
+    border-radius: 10px;
+
+}
+.color-background3
+{
+    background-color: rgba(255, 194, 57, 0.28);
+    padding: 15px;
+    border-radius: 10px;
 }
 .third-last-para
 {
