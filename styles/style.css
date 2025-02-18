@@ -8,6 +8,9 @@
   body{
     background-color: #F8F9FC;
   }
+  .btn-primary:hover{
+    background-color: #81c3b2;
+  }
 nav ul li
 {
     list-style: none;
@@ -45,6 +48,9 @@ nav ul li a {
     border: 0;
     border-color: none;
     
+ }
+ .btn-primary1:hover{
+    background-color: #44b8a4;
  }
  
  .btn-primary
@@ -179,8 +185,12 @@ img{
     font-weight:700px;
     border-radius: 5px;
     border: none;
-    color: c;
+    
       
+}
+.btn-primary0:hover
+{
+    background-color: #54f584;
 }
 .color-1
 {
@@ -236,12 +246,19 @@ img{
 {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     margin: 0px 200px;
     gap: 40px;
     padding: 15px;
     border-radius: 10px;
     background-color: #F8F9FC;
     width: 75%;
+}
+.third-page-items-inside-tite2
+{
+    font-size: 13px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
 }
 .third-last
 {
@@ -306,6 +323,10 @@ display: inline-block;
 .forth-page{
     padding-top: 15px;
 }
+.option1:hover{
+    background-color:#387f6d;
+    ;
+}
 /* fifth page */
 .fifth-page-title
 {
@@ -353,6 +374,9 @@ display: inline-block;
     background-color: #006A50;
     padding: 10px;
 }
+.fifth-page-btn:hover{
+    background-color:#C6E4D6;
+}
 .fifth-page-image{
     width: 273px;
     height: 205px;
@@ -378,6 +402,9 @@ display: inline-block;
     margin-top: 20px;
     box-shadow:3px 3px 3px 3px rgba(0, 0, 0, 0.1);
     
+}
+.sixth-page-cotainur-items:hover{
+    background-color: #006A50;
 }
 /* sixth page */
 .sixth-page{
@@ -430,6 +457,9 @@ display: inline-block;
 {
     margin-top: 10px;
     
+}
+.sixth-page-btn:hover{
+    background-color:#C6E4D6;
 }
 .sixth-page-cotainur-items{
     padding: 26px 26px;
@@ -515,6 +545,9 @@ font-weight: bold;
     color: #FFFFFF;
     background-color: #006A50;
     padding: 9px 9px;
+}
+.seventh-page-btn:hover{
+    background-color:#5dc293;
 }
 input{
 
